@@ -1,101 +1,92 @@
-<p align="center">
-<a href="https://bit.ly/2xXJ2x0"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://bit.ly/2xXJ2x0"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Snapback-green.svg"></a>
-<a href="https://bit.ly/2xXJ2x0"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
-<a href="https://bit.ly/2xXJ2x0"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
-</p>
-<p align="center">
-![Logo](https://github.com/sd-abubakar/snapback/blob/main/20230824_010927.png
-</p>
-<p align="center">
-<a href="https://github.com/sd-abubakar"><img title="Github" src="https://img.shields.io/badge/sdabubakar-brightgreen?style=for-the-badge&logo=github"></a>
-</p>
 
-## ABOUT TOOL :
 
-Snap is a bash based script for zsh based termux and from this tool you can do many things like backup termux and restoring backups and etc.. this tool works on both rooted and non-rooted devices so you can use it wihtout any issues.
+# InstaPro v2.0 🚀
 
-## AVAILABLE ON :
+It runs as a command line interface on your devices and will interact to Instagram users (configurable). You choose a list of Instagram users whose market you want to target. The bot navigates to each of these, finds the last people and then like, follow & comments each of them (also configurable), it will interact to target users. Simple and effective.
 
-* Termux
+The bot will remember every user it has followed, liked & comments so if you quit the app and open it later, it will still clean up by remember users that it previously already interacted.
 
-### TESTED ON :
+## 🌟 Features
 
-* Termux
+- View all stories from feeds🔥
+- Unfollow Inactive user 🔥
+- Unfollow user if they haven't any post 🔥
+- Like All post from Hashtag🔥
+- Comment All post from Hashtag🔥
+- Follow All people from Hashtag🔥
+- Follow user by Target Following🔥
+- Follow user by Target Followers🔥
+- Delete all post / media on your account 
+- Like all post on your feed
+- Like all post from your custom target profile 
+- Like & Comment post by Target Followers
+- Follow & Like post by Target Followers
+- Follow, Like & Comment post by Target Followers
+- Follow, Like & DM post by Target Followers
+- Follow, Like & Comment post by Hashtag
+- Follow, Like & Comment post by Location
+- Unfollow all following
+- Unfollow account who not following you back
 
-### REQUIREMENTS :
-* internet
-* external storage permission
-* storage 400 MB
-* 1gb ram
+## Changelog v2.0
 
-## FEATURES :
-* [+] Backup any core tool !
-* [+] Updated maintainence !
-* [+] Easy for beginners !
-* [+] Perfect tool for termux !
+- Auto View Stories
+- Auto Unfollow Inactive user
+- Auto Unfollow user if they haven't any post 
+- Auto Like and Comment on feeds
+- Auto Like all posts from location (Like only)
+- Auto Comment all posts from location (Comment only)
+- Auto Follow all people from location (Follow only)
+- Auto-set and change delays to simulate human behavior
+- Automatically save logs in the './logs/' folder
+- Change login method using 'dotenv'
 
-## INSTALLATION [Termux] :
+## 📂Requirements
 
-* `apt-get update -y`
-* `apt-get upgrade -y`
-* `pkg install python -y`
-* `pkg install python2 -y`
-* `pkg install git -y`
-* `pip install lolcat`
-* `git clone https://github.com/noob-hackers/snap`
-* `cd $HOME`
-* `ls`
-* `cd snap`
-* `ls`
-* `bash snap.sh`
+Make sure you have NodeJS installed on your device
+## 👨‍💻 Installation
+
+Clone this Repository 
+```bash
+git clone https://github.com/sd-abubakar/InstaPro
 ```
-[+]-- Now you need internet connection to continue further process...
-[+]-- You can select any option by clicking on your keyboard
-[+]-- Note:- Don't delete any of the scripts included in bars directory (folder)
+
+Go to InstaPro Folder
+```bash
+cd InstaPro
 ```
-## USAGE OPTIONS [Termux] :
+Install Package Modules
+```bash
+npm install
+```
+Run
+```bash
+node index.js
+```
+## ⚙️ Setup your account
 
-__TERMUX BACKUP__ :
-- From this option you can backup all the tools and default bash terminal script into your internal stoarge without any issue and you can restore it at any time.
+Edit .env file
 
-__TERMUX RESTORE__ :
-- From this option you can restore the backup tools of termux and default terminal as it was first.
+```bash
+INSTAGRAM_USERNAME=your_username
+INSTAGRAM_PASSWORD=your_password
+```
 
-__UPDATE SCRIPT__ :
-- From this option you can update snap tool if updates are available for that.
+## ⏳Optimizations
 
-__EXIT__ :
-- From this option you can exit from snap tool.
+Auto-set and change delays to simulate human behavior
+## 📱Screenshots
 
-## SCREEN SHOTS [Termux]
+![App Screenshot](https://raw.githubusercontent.com/sd-abubakar/InstaPro/main/assets/dashboard.png)
 
-<br>
-<p align="center">
-<img width="45%" src="https://user-images.githubusercontent.com/49580304/96559530-071f5e00-1272-11eb-9153-cba6fe3b8e61.jpg"/>
-<img width="50%" src="https://user-images.githubusercontent.com/49580304/96559538-08508b00-1272-11eb-8cf5-b145d5c7b758.jpg"/>
-</p>
 
-## CONNECT WITH US :
+## Feedback
 
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://rebrand.ly/fbmsnger)
-<a href="https://rebrand.ly/githubprof"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://rebrand.ly/insgrm)
-[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://rebrand.ly/noobwebs)
-[![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://rebrand.ly/linkedinprof)
-[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://rebrand.ly/fsbpage)
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://rebrand.ly/telegramchnl)
-[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://rebrand.ly/hckrgroups)
-[![Instagram](https://img.shields.io/badge/DISCUSSION-FORUM-blue?style=for-the-badge&logo=forum)](https://rebrand.ly/nhforums)
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+If you have any feedback, please reach out to me at 🕵️
+- 🌐 [Instagram](https://instagram.com/s.d_abubakarrr)
+- 🌐 [Telegram](https://t.me/InstaJS_Official)
 
-## BUY ME A COFFEE :
 
-<p align="center">
-<a href="https://rebrand.ly/BuyCoffee"><img title="Noob Hackers" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
-</p>
+## Credits
 
-## WARNING : 
-***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+- [officialputuid](https://github.com/officialputuid/toolsig)
