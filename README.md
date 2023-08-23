@@ -10,7 +10,7 @@
 <a href="https://bit.ly/2xXJ2x0"><img title="mrphish" src="https://user-images.githubusercontent.com/49580304/96558549-b22f1800-1270-11eb-81c4-502960f9447f.jpg"></a>
 </p>
 <p align="center">
-<a href="https://github.com/sd-abubakar"><img title="Github" src="https://img.shields.io/badge/sd-abubakar-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/sd-abubakar"><img title="Github" src="https://img.shields.io/badge/sdabubakar-brightgreen?style=for-the-badge&logo=github"></a>
 </p>
 
 ## ABOUT TOOL :
