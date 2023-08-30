@@ -96,13 +96,10 @@ __EXIT__ :
 
 
 ## BUY ME A COFFEE :
-<p align="center">
-<a href="https://ko-fi.com/https://ko-fi.com/syedabubakar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" width="130" alt="https://ko-fi.com/syedabubakar"
+<p
+<a href="https://ko-fi.com/https://ko-fi.com/syedabubakar"> <img align="centre" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" width="130" alt="https://ko-fi.com/syedabubakar"
 /a>
 </p>
-
-
-
 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
