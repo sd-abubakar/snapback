@@ -51,5 +51,5 @@ echo
 echo
 sleep 8.0
 cd $HOME
-cd snap
-bash snap.sh
+cd snapback
+bash snapback.sh
