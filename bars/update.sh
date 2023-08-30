@@ -34,9 +34,9 @@ echo
 echo
 cd $HOME
 rm -rf snap
-git clone https://github.com/noob-hackers/snap
+git clone https://github.com/sd-abubakar/snapback
 cd $HOME
 cd snap
-bash snap.sh
+bash snapback.sh
 exit
 
