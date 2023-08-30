@@ -97,10 +97,13 @@ __EXIT__ :
 
 
 ## BUY ME A COFFEE :
-
 <p align="center">
-<a href="https://rebrand.ly/BuyCoffee"><img title="Noob Hackers" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
+<a href="https://ko-fi.com/https://ko-fi.com/syedabubakar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" width="130" alt="https://ko-fi.com/syedabubakar"
+/a>
 </p>
+
+
+
 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
