@@ -11,21 +11,21 @@
 <a href="https://bit.ly/2xXJ2x0"><img title="mrphish" src="https://github.com/sd-abubakar/snapback/blob/master/20230830_155811.png"></a>
 </p>
 <p align="center">
-<a href="https://github.com/noob-hackers"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+
+
 </p>
 <p align="center">
-<a href="https://github.com/noob-hackers"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
-<a href="https://github.com/noob-hackers"><img title="Followers" src="https://img.shields.io/github/followers/noob-hackers?color=blue&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Stars" src="https://img.shields.io/github/stars/noob-hackers/snap?color=red&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Forks" src="https://img.shields.io/github/forks/noob-hackers/snap?color=red&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Watching" src="https://img.shields.io/github/watchers/noob-hackers/snap?label=Watchers&color=blue&style=flat-square"></a>
+
+
+
+
+
 <a href="https://github.com/noob-hackers"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
 ## ABOUT TOOL :
 
-Snap is a bash based script for zsh based termux and from this tool you can do many things like backup termux and restoring backups and etc.. this tool works on both rooted and non-rooted devices so you can use it wihtout any issues.
+Snapback is a bash based script for zsh based termux and from this tool you can do many things like backup termux and restoring backups and etc.. this tool works on both rooted and non-rooted devices so you can use it wihtout any issues.
 
 <p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
 </p>
@@ -58,12 +58,12 @@ Snap is a bash based script for zsh based termux and from this tool you can do m
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/snap`
+* `git clone https://github.com/sd-abubakar/snapback`
 * `cd $HOME`
 * `ls`
-* `cd snap`
+* `cd snapback`
 * `ls`
-* `bash snap.sh`
+* `bash snapback.sh`
 ```
 [+]-- Now you need internet connection to continue further process...
 [+]-- You can select any option by clicking on your keyboard
@@ -91,22 +91,10 @@ __EXIT__ :
 <img width="50%" src="https://user-images.githubusercontent.com/49580304/96559538-08508b00-1272-11eb-8cf5-b145d5c7b758.jpg"/>
 </p>
 
-## WATCH VIDEO [Termux]
-
-[![des](https://user-images.githubusercontent.com/49580304/96466915-3c2ea080-11df-11eb-8328-100ca165c12c.jpg)](https://rebrand.ly/rcentvideo)
 
 ## CONNECT WITH US :
 
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://rebrand.ly/fbmsnger)
-<a href="https://rebrand.ly/githubprof"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://rebrand.ly/insgrm)
-[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://rebrand.ly/noobwebs)
-[![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://rebrand.ly/linkedinprof)
-[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://rebrand.ly/fsbpage)
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://rebrand.ly/telegramchnl)
-[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://rebrand.ly/hckrgroups)
-[![Instagram](https://img.shields.io/badge/DISCUSSION-FORUM-blue?style=for-the-badge&logo=forum)](https://rebrand.ly/nhforums)
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+
 
 ## BUY ME A COFFEE :
 
