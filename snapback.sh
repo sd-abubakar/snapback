@@ -49,9 +49,6 @@ echo -e "$red
 echo -e "$red                   
 ➡$cyan [4️⃣] Exit"
 echo " "
-// Open @s.d_abubakarrr Instagram Profile
-const link = "https://www.instagram.com/s.d_abubakarrr";
-open(link);
 echo " "
 echo -e "$grn               
 >＞＞＞＞＞$ylo [SELECT]$grn ＜＜＜＜＜<$rset"
