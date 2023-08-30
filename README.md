@@ -86,8 +86,8 @@ __EXIT__ :
 
 <br>
 <p align="center">
-<img width="45%" src="https://user-images.githubusercontent.com/49580304/96559530-071f5e00-1272-11eb-9153-cba6fe3b8e61.jpg"/>
-<img width="50%" src="https://user-images.githubusercontent.com/49580304/96559538-08508b00-1272-11eb-8cf5-b145d5c7b758.jpg"/>
+<img width="45%" src=""/>
+
 </p>
 
 
