@@ -80,7 +80,7 @@ __UPDATE SCRIPT__ :
 - From this option you can update snap tool if updates are available for that.
 
 __EXIT__ :
-- From this option you can exit from snap tool.
+- From this option you can exit from snapback tool.
 
 ## SCREEN SHOTS [Termux]
 
