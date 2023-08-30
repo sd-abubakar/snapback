@@ -40,8 +40,8 @@ echo
 echo -e "       $grn Backup already exist please restore it or delete it$rset"
 sleep 8.0
 cd $HOME
-cd snap
-bash snap.sh
+cd snapback
+bash snapback.sh
 else
 cd $HOME
 rm -rf storage
@@ -70,5 +70,5 @@ echo
 echo
 echo -e "               $grn Backup successfull....$rset"
 sleep 6.0
-cd $HOME/snap
-bash snap.sh
+cd $HOME/snapback
+bash snapback.sh
